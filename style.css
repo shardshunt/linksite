@@ -41,4 +41,6 @@ footer {
 
 .links a i {
   margin-right: 8px;
+  font-size: 1.2em;
+  vertical-align: middle;
 }
