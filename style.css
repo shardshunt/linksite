@@ -32,13 +32,6 @@ h1 {
   color: #fff;
 }
 
-footer {
-  position: absolute;
-  bottom: 10px;
-  font-size: 0.9em;
-  color: #666;
-}
-
 .links a i {
   margin-right: 8px;
   font-size: 1.2em;
